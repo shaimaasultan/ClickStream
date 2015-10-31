@@ -5,8 +5,11 @@ We can analyze this Data feeds to classify the website visitors According to the
 First, we will Search for any malicious activity on this data feeds as a cleaning step, then classify the visitors into three main categories (Loyal, Guest, Normal) and according to their activity on the web site we can predict which products they tend to buy together.
 
 # Dataset
-The Dataset is a web logs data for a fictitious web retail store Combined with traditional customer data and traditional products categories. You can find the Dataset at this URLhttps://s3.amazonaws.com/hw-sandbox/tutorial8/RefineDemoData.zip  
---------------------
+------
+
+The Dataset is a web logs data for a fictitious web retail store Combined with traditional customer data and traditional products categories. 
+You can find the Dataset at this [URL](https://s3.amazonaws.com/hw-sandbox/tutorial8/RefineDemoData.zip).  
+
 This Dataset Contains 
 ---------------------
 o	421266 total log records; 177 features. 
