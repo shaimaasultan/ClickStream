@@ -12,7 +12,7 @@ You can find the Dataset at this [URL](https://s3.amazonaws.com/hw-sandbox/tutor
 
 This Dataset Contains 
 ---------------------
-o	421266 total log records; 177 features. 
+o	427811 total log records; 41 features. 
 
 o	30 Products with 14 different categories.
 
